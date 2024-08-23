@@ -1,1 +1,1 @@
-# rs-descriptor-parser
+# Output Script Descriptor Parser in Rust
